@@ -22,3 +22,10 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+img{
+  max-width: 200px;
+}
+ul{
+  display: flex;
+  flex-direction: column;
+}
